@@ -1,4 +1,4 @@
-# SIH25: A Comprehensive Healthcare Platform 🏥
+# SIH25: A Comprehensive Healthcare Platform 
 
 A full-stack web application designed to streamline healthcare interactions between doctors and patients.  
 
